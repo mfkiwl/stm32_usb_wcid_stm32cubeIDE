@@ -26,3 +26,8 @@ Then make sure that *"Select root directory"* points to the `stm32_usb_test_wcid
 # Build and run on target
 
 Follow the usual Eclipse/STM32CubeIDE workflow for building the firmware and running it on the target.
+
+# References
+
+* libwdi's [Wikipage](https://github.com/pbatard/libwdi/wiki/WCID-Devices) on WCID devices.
+* Example [firmware](https://sourceforge.net/projects/libwdi/files/misc/) for STM32 microcontroller.
